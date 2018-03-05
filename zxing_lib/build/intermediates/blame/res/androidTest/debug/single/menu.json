@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shibo/Documents/android/zxing_lib/build/intermediates/res/merged/androidTest/debug/menu/history.xml",
+        "source": "/Users/shibo/Documents/android/zxing_lib/build/intermediates/bundles/debug/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/shibo/Documents/android/zxing_lib/build/intermediates/res/merged/androidTest/debug/menu/encode.xml",
+        "source": "/Users/shibo/Documents/android/zxing_lib/build/intermediates/bundles/debug/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/shibo/Documents/android/zxing_lib/build/intermediates/res/merged/androidTest/debug/menu/capture.xml",
+        "source": "/Users/shibo/Documents/android/zxing_lib/build/intermediates/bundles/debug/res/menu/capture.xml"
+    }
+]
